@@ -3,14 +3,13 @@
 ###
 
 <p align="left">Meu nome é Eugênia Moraes e sou estudante de Tecnologia, de Recife,Pernambuco.</p>
-###
 
 <h2 align="left">About me</h2>
 
 ###
 
 
-<p align="left">✨ Criando códigos desde 2026! <br/> 📚 Atualmente estou aprendendo HTML, CSS e JavaScript. <br/>   🎲 Curiosidade: Apaixonada por tecnologia e evolução constante!</p>
+<p align="left"> 📚 Atualmente estou aprendendo HTML, CSS e JavaScript. <br/>   🎲 Curiosidade: Apaixonada por tecnologia e evolução constante!</p>
 ###
 
 <h2 align="left">I code with</h2>
