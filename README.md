@@ -1,12 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Oii :) </h1>
 
-###
+
 
 <p align="left">Meu nome é Eugênia Moraes e sou estudante de Tecnologia, de Recife,Pernambuco.</p>
 
-<h2 align="left">About me</h2>
+<h2 align="left">Sobre mim</h2>
 
-###
+
 
 
 <p align="left"> 📚 Atualmente estou aprendendo HTML, CSS e JavaScript. <br/>   🎲 Curiosidade: Apaixonada por tecnologia e evolução constante!</p>
@@ -14,7 +14,7 @@
 
 <h2 align="left">I code with</h2>
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
