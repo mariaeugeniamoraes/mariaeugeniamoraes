@@ -1,4 +1,4 @@
-"<img width="386" height="217" alt="Post by @champagnexowishes · 1 image" src="https://github.com/user-attachments/assets/6b38c7ee-1a7d-41fe-93a2-d40cb5e76dcc" />
+<img width="386" height="217" alt="Post by @champagnexowishes · 1 image" src="https://github.com/user-attachments/assets/6b38c7ee-1a7d-41fe-93a2-d40cb5e76dcc" />
 
 
 <h1 align="left">Oii :) </h1>
