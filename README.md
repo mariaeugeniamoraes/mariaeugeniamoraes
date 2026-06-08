@@ -1,6 +1,4 @@
-<img src="<img width="386" height="217" alt="Post by @champagnexowishes · 1 image" src="https://github.com/user-attachments/assets/163e431c-e4bf-4afc-a8f2-366e815614a9" />
-" width="100%" alt="Banner de entrada">
-
+<img src="https://github.com/user-attachments/assets/163e431c-e4bf-4afc-90fc-7253457a41ca" width="100%" alt="Banner de entrada">
 
 <h1 align="left">Oii :) </h1>
 
