@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="./banner-github.png" alt="Banner Eugênia Moraes" width="100%">
+  <img src="./banner-github.jpg" alt="Banner Eugênia Moraes" width="100%">
 </p>
 
 <!-- ===================== APRESENTAÇÃO ===================== -->
