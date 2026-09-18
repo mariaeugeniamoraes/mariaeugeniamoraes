@@ -64,25 +64,9 @@ Aplicação com foco em **ESG para pequenas e médias empresas**, desenvolvida p
 
 **Tecnologias:** Python • Django • HTML • CSS • Banco de Dados
 
----
 
-## 📊 Estatísticas do GitHub
 
-<p align="center">
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=mariaeugeniamoraes&show_icons=true&hide_border=true&theme=github_dark"
-    alt="Estatísticas do GitHub"
-  >
-
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeugeniamoraes&layout=compact&hide_border=true&theme=github_dark"
-    alt="Linguagens mais utilizadas"
-  >
-
-</p>
 
 ---
 
