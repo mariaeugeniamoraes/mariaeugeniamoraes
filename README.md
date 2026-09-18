@@ -1,7 +1,7 @@
 <!-- ===================== BANNER ===================== -->
 
 <p align="center">
-  <img src="assets/banner-github.png" alt="Banner Eugênia Moraes" width="100%">
+  <img src="./banner-github.png" alt="Banner Eugênia Moraes" width="100%">
 </p>
 
 <!-- ===================== APRESENTAÇÃO ===================== -->
@@ -33,19 +33,19 @@ Gosto de transformar ideias em projetos práticos, desenvolvendo soluções func
 ### 💻 Linguagens
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css" alt="Linguagens">
 </p>
 
 ### ⚙️ Frameworks e Banco de Dados
 
 <p>
-  <img src="https://skillicons.dev/icons?i=django,mysql" />
+  <img src="https://skillicons.dev/icons?i=django,mysql" alt="Frameworks e Banco de Dados">
 </p>
 
 ### 🛠️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Ferramentas">
 </p>
 
 ---
@@ -69,15 +69,19 @@ Aplicação com foco em **ESG para pequenas e médias empresas**, desenvolvida p
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=github_dark"
-  />
 
   <img
     height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&theme=github_dark"
-  />
+    src="https://github-readme-stats.vercel.app/api?username=mariaeugeniamoraes&show_icons=true&hide_border=true&theme=github_dark"
+    alt="Estatísticas do GitHub"
+  >
+
+  <img
+    height="170"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaeugeniamoraes&layout=compact&hide_border=true&theme=github_dark"
+    alt="Linguagens mais utilizadas"
+  >
+
 </p>
 
 ---
@@ -86,12 +90,12 @@ Aplicação com foco em **ESG para pequenas e médias empresas**, desenvolvida p
 
 <p align="center">
 
-  <a href="www.linkedin.com/in/maria-eugenia-moraes">
-    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/maria-eugenia-moraes/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil%20Profissional-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 
   <a href="https://github.com/mariaeugeniamoraes">
-    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/GitHub-Meus%20Projetos-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 
 </p>
